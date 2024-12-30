@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Rinkeshsingh Umeshsingh Rajput</h1>
+<h1 align="center">Hello World 👋, I'm Rajput Prathameshsingh</h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=connect-psr" alt="Profile Views" />

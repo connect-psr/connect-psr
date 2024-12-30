@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connect-psr&show_icons=true&locale=en" alt="connect-psr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connect-psr&show_icons=false&rank_icon=github&locale=en" alt="connect-psr" /></p>
 
 <br>
 

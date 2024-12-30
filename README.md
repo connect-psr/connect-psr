@@ -52,8 +52,6 @@
 ## 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connect-psr" alt="connect-psr" /></a>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&border=none)
 
 </div>
 
@@ -75,6 +73,5 @@ Please feel free to clone/fork projects, raise issues, and submit PRs if you thi
 
 <a href="https://linkedin.com/in/connect-psr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connect-psr" height="30" width="40" /></a>
 <a href="https://twitter.com/connect_psr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="connect_psr" height="30" width="40" /></a>
-<a href="https://instagram.com/connect.psr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="connect.psr" height="30" width="40" /></a>
 
 </div>

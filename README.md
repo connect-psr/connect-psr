@@ -1,14 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Rajput Prathameshsingh</h1>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=connect-psr" alt="Profile Views" />
-    <a href="https://stackoverflow.com/users/16260040/rinkeshsingh" target="_blank">
-        <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
-    </a>
-</p>
-
 <div align="center">
-    <p>✨ Passionate about coding, continuously learning, and aiming to be a top software developer. ✨</p>
+    <p>✨ Do More Not Enough ✨</p>
 </div>
 
 <div align="center">
